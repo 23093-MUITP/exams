@@ -4,7 +4,7 @@ body{
 	font-size: 8px;
 	line-height: 2;
 	font-family: sans-serif;
-	background-color: #e7e7e7;
+	background-color: #ebe3e3;
 }
 a{
 	text-decoration: none;
@@ -22,8 +22,19 @@ a{
 .articlecontent{
 	padding: 1rem;
 }
-.article{
+.articlebig{
 	margin-bottom: 1rem;
+	margin-left: 1rem;
+	background-color:white;
+}
+.articlemedium{margin-bottom: 1rem;
+	margin-left: 1rem;
+	background-color:white;
+
+
+}
+.articlemedium1{
+    margin-bottom: 1rem;
 	margin-left: 1rem;
 	background-color:white;
 }
